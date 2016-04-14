@@ -1,6 +1,6 @@
 # cordovaGeofencePlugin
 
-markup : * This plugin support following features,
+Markup : * This plugin support following features,
             *Create geofence
             *Moniter geofence
             *Delete Geofence
