@@ -2,6 +2,6 @@
 
 Markup : * This plugin support following features,
             *Create geofence
-            *Moniter geofence
-            *Delete Geofence
+             *Moniter geofence
+              *Delete Geofence
   
